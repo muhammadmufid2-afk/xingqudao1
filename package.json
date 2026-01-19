@@ -1,0 +1,17 @@
+{
+  "name": "homework-comment-generator",
+  "version": "1.0.0",
+  "description": "批量作业点评图片生成工具",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["homework", "comment", "image", "generator"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "cors": "^2.8.5"
+  }
+}
